@@ -1,4 +1,4 @@
-path: A:\Codes\Thesis\New_YOLO
+path: New_YOLO
 train: train\images
 val: valid\images
 test: test\images
