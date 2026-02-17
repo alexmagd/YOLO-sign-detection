@@ -1,0 +1,14 @@
+path: A:\Codes\Thesis\New_YOLO
+train: train\images
+val: valid\images
+test: test\images
+
+nc: 4
+names: ['0', '1', '2', '3']
+
+roboflow:
+  workspace: alex-magdalinidis
+  project: traffic-signs-dataset-in-yolo-format-siuzd
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/alex-magdalinidis/traffic-signs-dataset-in-yolo-format-siuzd/1
